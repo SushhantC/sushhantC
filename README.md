@@ -8,7 +8,7 @@
 
 📍 **Location:** Kathmandu, Nepal  
 📧 **Email:** [sushantchaudhary493@gmail.com](mailto:sushantchaudhary493@gmail.com)  
-🔗 **LinkedIn:** [LinkedIn Profile](#) | **GitHub:** [GitHub Profile](#)
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sushantchy/) 
 
 ---
 
@@ -30,7 +30,6 @@
 ### 🔹 Land Rental System (Python)  
 - Developed a **Python-based** system to manage land rentals, transactions, and invoices using **data structures**.  
 - Designed a **modular program** with **input validation**, **error handling**, and **dynamic invoice generation**.  
-🔗 **GitHub Repo:** [Project Link](#)
 
 ---
 
@@ -76,3 +75,4 @@
 
 ### 🤝 Let's Connect!
 📫 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech! 🚀
+
