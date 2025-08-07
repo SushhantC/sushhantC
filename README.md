@@ -1,78 +1,70 @@
-# 💻 Sushant Chaudhary
+<h1 align="center">Hi, I'm Sushant Chaudhary</h1>
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,cybersecurity)
-
-## 🚀 About Me
-
-👋 Hi there! I'm **Sushant Chaudhary**, a passionate **Computer Networking & IT Security** student with a strong foundation in **cloud computing, cybersecurity, and network infrastructure**. I am seeking an internship or entry-level opportunity to apply my technical expertise in a dynamic IT environment.
-
-📍 **Location:** Kathmandu, Nepal  
-📧 **Email:** [sushantchaudhary493@gmail.com](mailto:sushantchaudhary493@gmail.com)  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sushantchy/) 
+<p align="center">
+  🌐 Kathmandu, Nepal • 📧 <a href="mailto:sushantchaudhary493@gmail.com">sushantchaudhary493@gmail.com</a> • 
+  <a href="https://linkedin.com/in/sushantchy" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/SushhantC" target="_blank">GitHub</a>
+</p>
 
 ---
 
-## 🛠 Technical Skills
+🔐 **Cybersecurity & Network Engineering Enthusiast** | AWS & Azure Practitioner | Detail-Oriented Problem Solver
 
-- **Networking & Routing:** Router/Switch Configuration, VLANs, STP, VTP, EtherChannel, Multilayer Switching  
-- **Network Protocols:** OSI Model, TCP/IP, DHCP, DNS, FTP, TFTP, SSH  
-- **Cybersecurity:** ACLs, Port Security, Dynamic ARP Inspection, AAA Configuration  
-- **Network Services:** Subnetting, DHCP/DNS Configuration  
-- **Operating Systems:** Windows, Linux (Ubuntu, Kali Linux)  
-- **Tools & Technologies:** Cisco Packet Tracer, Wireshark, VirtualBox, Nmap  
-- **Cloud Computing:** Basic knowledge of AWS & Azure security practices  
-- **Soft Skills:** Quick Learner, Analytical Thinking, Teamwork, Problem-Solving  
+I'm currently pursuing a BSc (Hons) in Computer Networking and IT Security. My interests lie in securing systems, analyzing threats, and building resilient cloud infrastructure. I aim to contribute to security operations and risk management using industry best practices and cloud technologies.
 
 ---
 
-## 📂 Projects
+### 🛠️ Skills Overview
 
-### 🔹 Land Rental System (Python)  
-- Developed a **Python-based** system to manage land rentals, transactions, and invoices using **data structures**.  
-- Designed a **modular program** with **input validation**, **error handling**, and **dynamic invoice generation**.  
-
----
-
-## 🏅 Certifications
-
-- 🛡 **Introduction to Cybersecurity** – Cisco Networking Academy *(2025-02-19)*  
-- 🔍 **Ethical Hacker** – Cisco Networking Academy *(2025-02-20)*  
-- 🏆 **Cyber Threat Management** – Cisco Networking Academy *(2025-02-21)*  
-- 🌐 **Networking Basics** – Cisco Networking Academy *(2025-02-21)*  
+- **Networking**: VLANs, STP, ACLs, DNS, DHCP, Subnetting, Cisco IOS, Firewalls  
+- **Cybersecurity**: Penetration Testing, Threat Intelligence, Risk Management, Compliance (ISO 27001, NIST)  
+- **Cloud Platforms**: AWS (IAM, EC2, VPC), Microsoft Azure (Security Center)  
+- **Programming**: Python, JavaScript, HTML/CSS, Bash  
+- **Tools**: Wireshark, Nmap, Metasploit, Burp Suite, Nessus, Packet Tracer  
 
 ---
 
-## 🎓 Education
+### 📂 Featured Projects
 
-🎓 **BSc (Hons) Computer Networking & IT Security** – Islington College, Kathmandu *(2024 – Present)*  
-🎓 **+2 in Computer Science** – Everest College, Biratnagar *(2021 – 2023)*  
+- **Land Rental System** – Console-based app in Python with modular code and file handling.  
+- **Cyber Risk Management Report** – Security controls aligned with ISO/NIST frameworks.  
+- **Cryptographic Algorithm Research** – Analysis and design of a hybrid crypto model.  
+- **Capital One Data Breach Analysis** – Ethical, technical, and legal perspectives on a major breach.
 
----
-
-## 🌍 Languages
-
-- 🇳🇵 Nepali (Native)  
-- 🇬🇧 English (Proficient)  
-- 🇮🇳 Hindi (Proficient)  
+🔗 [Explore My GitHub Projects](https://github.com/SushhantC)
 
 ---
 
-## 📌 Interests
+### 📜 Certifications
 
-- 🔐 **Cybersecurity & Ethical Hacking**  
-- 🌐 **Networking & Cloud Computing**  
-- 🛠 **Open-Source Projects**  
-- ✍ **Tech Blogging**  
+#### 🏅 AWS Academy
+[![Cloud Foundations](https://images.credly.com/size/110x110/images/0e3e1f07-99b4-4d7f-a028-e7f6a4b68b65/image.png)](https://www.credly.com) &nbsp;
+[![Cloud Security](https://images.credly.com/size/110x110/images/4f84427c-0af0-4b89-8a71-818e8ac1f8ef/image.png)](https://www.credly.com) &nbsp;
+[![Cloud Architecting](https://images.credly.com/size/110x110/images/b18d18c3-6173-44a1-b5f4-c972dfc8e375/image.png)](https://www.credly.com) &nbsp;
+[![Cloud Operations](https://images.credly.com/size/110x110/images/325c5d35-c70a-4ee4-9284-d36d5c8e2f7a/image.png)](https://www.credly.com)
+
+#### 🏅 Cisco Networking Academy  
+[![Intro to Cybersecurity](https://images.credly.com/size/110x110/images/ef0f7e07-1f8a-4e60-8f5a-89793d8d848e/image.png)](https://www.credly.com) &nbsp;
+[![Network Basics](https://images.credly.com/size/110x110/images/6bcf4a4d-6bc4-42db-9b05-0da0c7e8c74f/image.png)](https://www.credly.com) &nbsp;
+[![Cyber Threat Management](https://images.credly.com/size/110x110/images/927b8e75-0cc5-478d-aee9-6e59b573c6b3/image.png)](https://www.credly.com) &nbsp;
+[![Network Defense](https://images.credly.com/size/110x110/images/84994d71-f678-4c58-891b-dc1c7bd39a7e/image.png)](https://www.credly.com)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantchaudhary&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantchaudhary&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SushhantC&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushhantC&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 🤝 Let's Connect!
-📫 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech! 🚀
+### 🤝 Let's Connect
+
+I'm always open to opportunities in cybersecurity, cloud engineering, or network operations. Feel free to reach out!
+
+> *"Security is not a product, but a process." – Bruce Schneier*
+
 
